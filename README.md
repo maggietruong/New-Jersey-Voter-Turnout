@@ -1,28 +1,39 @@
 # New Jersey Voter Turnout Analysis
 
 ## Overview
-This project analyzes voter turnout patterns in New Jersey using Python-based data analysis. The goal of the project is to explore trends in voter participation across elections and identify patterns related to demographic and contextual factors. The analysis emphasizes data cleaning, exploratory analysis, and clear presentation of results.
+This project analyzes voter turnout and political participation patterns in New Jersey using large-scale voter file data. The analysis explores trends in voter participation across elections, demographic characteristics, and party affiliation, with the goal of identifying meaningful patterns in civic engagement.
 
-The project was completed as part of a course assignment and is presented as rendered HTML files for easy viewing without requiring any local setup.
+The project was completed as part of a data science course and focuses on real-world data workflows, including data extraction, cleaning, exploratory analysis, visualization, and interpretation of results.
 
-## Tools & Technologies
-- Python
-- Jupyter Notebooks
-- Pandas
-- NumPy
-- Data visualization libraries (e.g., Matplotlib / Seaborn)
+---
 
-## Project Structure
-- `html/` — Rendered HTML versions of the notebooks containing the full analysis, code, and outputs
-- `README.md` — Project overview and links to the analysis
+## Data & Tools
+- **Data Source:** New Jersey voter file (millions of records, hundreds of variables)
+- **Technologies Used:**
+  - Python
+  - SQL
+  - Jupyter Notebooks
+  - Databricks
+  - Pandas, NumPy
+  - Matplotlib, Seaborn, Plotly
+  - GitHub Pages (for hosting project outputs)
 
-## View the Project (report/Voter%20Turnout%20Project.pdf)
-The full project can be viewed at the links below:
+---
 
-- **Part 1:** Data loading and initial exploration  
-- **Part 2:** Data cleaning and feature preparation  
-- **Part 3:** Exploratory data analysis and visualization  
-- **Final Analysis:** Summary insights and conclusions  
+## View the Project
+The complete project report, including analysis, visualizations, and conclusions, is available as a single PDF:
+
+📄 **[View Full Project Report (PDF)](report/Voter%20Turnout%20Project.pdf)**
+
+---
+
+## Key Takeaways
+- Voter turnout varies substantially across elections and demographic groups.
+- Party affiliation and voting history are strong predictors of participation.
+- Large-scale voter data requires extensive cleaning and validation.
+- Visual analysis reveals turnout patterns that are not apparent from summary statistics alone.
+
+---
 
 ## Notes
-All HTML files reflect the final submitted version of the project and include code, outputs, and visualizations exactly as they were produced during analysis.
+This repository is intended for portfolio and educational purposes. The PDF report reflects the final submitted version of the project and consolidates the full analysis and findings into a single document for easy viewing.
