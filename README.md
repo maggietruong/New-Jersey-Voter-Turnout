@@ -16,15 +16,13 @@ The project was completed as part of a course assignment and is presented as ren
 - `html/` — Rendered HTML versions of the notebooks containing the full analysis, code, and outputs
 - `README.md` — Project overview and links to the analysis
 
-## View the Project
+## View the Project (report/Voter%20Turnout%20Project.pdf)
 The full project can be viewed at the links below:
 
 - **Part 1:** Data loading and initial exploration  
 - **Part 2:** Data cleaning and feature preparation  
 - **Part 3:** Exploratory data analysis and visualization  
 - **Final Analysis:** Summary insights and conclusions  
-
-- [Final Project PDF](report/Voter%20Turnout%20Project.pdf)
 
 ## Notes
 All HTML files reflect the final submitted version of the project and include code, outputs, and visualizations exactly as they were produced during analysis.
