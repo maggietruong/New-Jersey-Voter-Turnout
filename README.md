@@ -33,7 +33,3 @@ The complete project report, including analysis, visualizations, and conclusions
 - Large-scale voter data requires extensive cleaning and validation.
 - Visual analysis reveals turnout patterns that are not apparent from summary statistics alone.
 
----
-
-## Notes
-This repository is intended for portfolio and educational purposes. The PDF report reflects the final submitted version of the project and consolidates the full analysis and findings into a single document for easy viewing.
